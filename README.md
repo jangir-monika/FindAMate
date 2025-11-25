@@ -1,7 +1,7 @@
 # 🤝 FindAMate (MERN/Full-Stack App)
 
 ## 🌐 Live Demo
-Visit the deployed application here: **[Your Vercel URL: e.g., https://bite-buddy-brown.vercel.app/]**
+Visit the deployed application here:
 
 ---
 
