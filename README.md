@@ -1,7 +1,7 @@
 # 🤝 FindAMate (MERN/Full-Stack App)
 
 ## 🌐 Live Demo
-Visit the deployed application here:
+Visit the deployed application here :
 
 ---
 
